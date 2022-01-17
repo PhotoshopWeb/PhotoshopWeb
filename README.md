@@ -3,7 +3,7 @@
 <p align="center">
 ─────────────────────────────────────
 <a href="https://ktz.netlify.app/">
-  <img src="https://img.shields.io/github/followers/ktzDC">
+  <img src="https://img.shields.io/github/followers/photoshopweb">
 </a>
 <a href="https://ktz.netlify.app/">
    <img src="https://komarev.com/ghpvc/?username=ktzDC">
