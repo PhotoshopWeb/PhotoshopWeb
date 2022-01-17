@@ -11,3 +11,19 @@
 <a href="https://ktz.netlify.app/">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
+
+📚 --> Informatic Enthusiast
+
+    <var PhotoShop = new TropHlou()>
+
+```javascript
+const -M Photoshop = {
+    name: "PhotoshopWeb",
+        Dev: {
+        
+        languages-M: ["Js"]
+        languages-L: ["ruby", "python", "lua', "TypeScript"]
+        
+        }
+};
+```
